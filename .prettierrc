@@ -5,7 +5,7 @@
   "useTabs": true,
   "editor.formatOnSave": true,
   "jsxSingleQuote": true,
-  "printWidth": 80,
+  "printWidth": 90,
   "editor.codeActionsOnSave": {
     "source.organizeImports": true
   },
